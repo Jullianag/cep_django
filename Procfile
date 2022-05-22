@@ -1,1 +1,1 @@
-web: gunicorn validacep.wsgi --log-file
+web: gunicorn validacep.wsgi --log-file -
