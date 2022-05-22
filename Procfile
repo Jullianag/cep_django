@@ -1,0 +1,1 @@
+web: gunicorn validacep.wsgi --log-file
